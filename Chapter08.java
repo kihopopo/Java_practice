@@ -1,6 +1,6 @@
 public class Chapter08 {
     public static void main(String[] args) {
-        String color = "white"; 
+        String color = "red"; 
         switch(color) {
           case "red" :
             System.out.println("赤信号です");
