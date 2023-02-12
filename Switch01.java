@@ -8,6 +8,7 @@ public class Switch01 {
         case 2:
             System.out.println("ふつうでした！");
             break;
+        // default：全てのcaseの値に一致しない場合にブロックを実行
         default:
             System.out.println("がんばろう！");
         }
